@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "annotations": [
+    {
+      "from_frame": 0,
+      "to_frame": 272,
+      "label": "Fold the napkin",
+      "type": "segment",
+      "id": "mark_c72a511d-dd78-4b10-b800-c1594046f4d5"
+    },
+    {
+      "from_frame": 272,
+      "to_frame": 362,
+      "label": "Grab a utensil with the left arm",
+      "type": "segment",
+      "id": "mark_f9b79c7b-87fc-4218-95bc-f9db9aed78f2"
+    },
+    {
+      "from_frame": 362,
+      "to_frame": 527,
+      "label": "Place the utensil onto the napkin",
+      "type": "segment",
+      "id": "mark_67c56cb4-afce-42c2-81bb-2307e540c5d1"
+    },
+    {
+      "from_frame": 527,
+      "to_frame": 1076,
+      "label": "Fold the napkin",
+      "type": "segment",
+      "id": "mark_d2434945-da67-4802-92c1-d1bb770c98e7"
+    },
+    {
+      "from_frame": 1076,
+      "to_frame": 3469,
+      "label": "Roll the napkin with the utensil",
+      "type": "segment",
+      "id": "mark_86484eec-d3f0-456a-9753-7d1306139e8d"
+    }
+  ]
+}

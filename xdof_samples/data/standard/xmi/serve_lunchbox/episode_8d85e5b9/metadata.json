@@ -1,0 +1,294 @@
+{
+  "task_name": "serve a lunch box",
+  "env_loop_frequency": 30.0,
+  "duration": 135.3436884880066,
+  "station_metadata": {
+    "world_frame": "NA",
+    "extrinsics": {
+      "top_camera_in_quest_head": {
+        "position": [
+          -0.06422473,
+          -0.05830567,
+          0.083002
+        ],
+        "rotation": [
+          0.92969391,
+          -0.36830551,
+          0.0016577,
+          -0.00418725
+        ]
+      },
+      "gripper_in_left_controller": {
+        "position": [
+          -4.181e-05,
+          0.07813787,
+          0.01732262
+        ],
+        "rotation": [
+          0.69958233,
+          -0.71081816,
+          0.04289986,
+          0.05900601
+        ]
+      },
+      "gripper_in_right_controller": {
+        "position": [
+          -0.00825025,
+          0.07254365,
+          0.03051299
+        ],
+        "rotation": [
+          -0.71866291,
+          0.69326912,
+          0.04311067,
+          0.03229579
+        ]
+      },
+      "gripper_camera_in_gripper": {
+        "position": [
+          0,
+          -0.086465,
+          -0.01125
+        ],
+        "rotation": [
+          -0.99939083,
+          0.0348995,
+          -0.0,
+          -0.0
+        ]
+      }
+    },
+    "arm_type": "xmi"
+  },
+  "camera_info": {
+    "top_camera": {
+      "camera_type": "ZED2i",
+      "device_id": "None",
+      "width": 1920,
+      "height": 1080,
+      "polling_fps": 30,
+      "name": "top_camera",
+      "image_transfer_time_offset_ms": 70,
+      "exposure_value": null,
+      "auto_exposure": null,
+      "intrinsic_data": {
+        "cameras": {
+          "left_rgb": {
+            "intrinsics_matrix": [
+              [
+                1063.11328125,
+                0.0,
+                942.717529296875
+              ],
+              [
+                0.0,
+                1063.11328125,
+                557.2328491210938
+              ],
+              [
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "distortion": {
+              "distortion_coefficients": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "distortion_model": "zed_rectified"
+            }
+          },
+          "right_rgb": {
+            "intrinsics_matrix": [
+              [
+                1063.11328125,
+                0.0,
+                942.717529296875
+              ],
+              [
+                0.0,
+                1063.11328125,
+                557.2328491210938
+              ],
+              [
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "distortion": {
+              "distortion_coefficients": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "distortion_model": "zed_rectified"
+            }
+          }
+        }
+      },
+      "extrinsics": {
+        "world": "left_rgb",
+        "extrinsics": {
+          "right_rgb": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              119.8724136352539
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ]
+        }
+      },
+      "concat_image": false
+    },
+    "left_camera": {
+      "camera_type": "OAK-1-W-97",
+      "device_id": "14442C1031361FD000",
+      "width": 640,
+      "height": 480,
+      "polling_fps": 60,
+      "name": "left_camera",
+      "image_transfer_time_offset_ms": 90.0,
+      "exposure_value": null,
+      "auto_exposure": null,
+      "intrinsic_data": {
+        "cameras": {
+          "rgb": {
+            "intrinsics_matrix": [
+              [
+                287.7085876464844,
+                0.0,
+                321.65692138671875
+              ],
+              [
+                0.0,
+                287.64154052734375,
+                241.62728881835938
+              ],
+              [
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "distortion": {
+              "distortion_coefficients": [
+                5.8275227546691895,
+                1.882643461227417,
+                -2.285296250192914e-05,
+                -1.936346961883828e-05,
+                0.03566189855337143,
+                6.200344085693359,
+                3.693420648574829,
+                0.2766984701156616,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0010174957569688559,
+                0.0009734618943184614
+              ],
+              "distortion_model": "Perspective"
+            }
+          }
+        }
+      },
+      "extrinsics": null,
+      "concat_image": false
+    },
+    "right_camera": {
+      "camera_type": "OAK-1-W-97",
+      "device_id": "14442C10A1451DD000",
+      "width": 640,
+      "height": 480,
+      "polling_fps": 60,
+      "name": "right_camera",
+      "image_transfer_time_offset_ms": 90.0,
+      "exposure_value": null,
+      "auto_exposure": null,
+      "intrinsic_data": {
+        "cameras": {
+          "rgb": {
+            "intrinsics_matrix": [
+              [
+                285.9730224609375,
+                0.0,
+                311.1717529296875
+              ],
+              [
+                0.0,
+                285.737060546875,
+                240.74647521972656
+              ],
+              [
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "distortion": {
+              "distortion_coefficients": [
+                4.072180271148682,
+                1.3797255754470825,
+                -5.7027940783882514e-05,
+                4.3281201214995235e-05,
+                0.02989448793232441,
+                4.427375793457031,
+                2.6209356784820557,
+                0.2139435112476349,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -0.0008006262360140681,
+                0.0015117019647732377
+              ],
+              "distortion_model": "Perspective"
+            }
+          }
+        }
+      },
+      "extrinsics": null,
+      "concat_image": false
+    }
+  }
+}

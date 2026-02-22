@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "annotations": [
+    {
+      "from_frame": 0,
+      "to_frame": 88,
+      "label": "Grab the tshirt from the pile",
+      "type": "segment",
+      "id": "mark_94cd1148-e3ac-4f56-853f-591a37318c81"
+    },
+    {
+      "from_frame": 88,
+      "to_frame": 131,
+      "label": "Move the tshirt to the center of the board",
+      "type": "segment",
+      "id": "mark_408c27e3-1746-4241-98d8-c591b8b1053e"
+    },
+    {
+      "from_frame": 131,
+      "to_frame": 668,
+      "label": "Flatten the tshirt out",
+      "type": "segment",
+      "id": "mark_d77e1aa4-10a2-4a74-9354-fa52da5b357d"
+    },
+    {
+      "from_frame": 668,
+      "to_frame": 740,
+      "label": "mistake",
+      "type": "segment",
+      "id": "mark_2c8cf795-e20e-4152-94bf-d8f15a04448b"
+    },
+    {
+      "from_frame": 740,
+      "to_frame": 1784,
+      "label": "Flatten the tshirt out",
+      "type": "segment",
+      "id": "mark_c051b27f-f9a9-47d9-b8d5-172c96a9d4a9"
+    },
+    {
+      "from_frame": 1784,
+      "to_frame": 3350,
+      "label": "Fold the tshirt",
+      "type": "segment",
+      "id": "mark_5f48e6ce-830b-44b4-a274-8ecdd89ff721"
+    },
+    {
+      "from_frame": 3350,
+      "to_frame": 3511,
+      "label": "Neatly place the folded tshirt to the corner",
+      "type": "segment",
+      "id": "mark_1e6f9dd3-ee87-48b7-b656-a02df78c1884"
+    }
+  ]
+}

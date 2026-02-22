@@ -1,0 +1,9 @@
+dm-control
+dm-env
+mink
+mujoco
+numpy
+opencv-python
+numpy-quaternion
+rerun-sdk
+tyro

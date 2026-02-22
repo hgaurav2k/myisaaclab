@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "annotations": [
+    {
+      "from_frame": 0,
+      "to_frame": 108,
+      "label": "Move a jacket to the center of the board",
+      "type": "segment",
+      "id": "mark_b8edf77c-62e3-45c5-b0c4-df6090564c03"
+    },
+    {
+      "from_frame": 108,
+      "to_frame": 1427,
+      "label": "Locate the head and base of the zipper",
+      "type": "segment",
+      "id": "mark_9133e9ad-4277-4f24-9390-20fe0f4d04d8"
+    },
+    {
+      "from_frame": 1427,
+      "to_frame": 2222,
+      "label": "Insert the slot of the zipper head into the base pin",
+      "type": "segment",
+      "id": "mark_084e43f4-47c2-427d-92de-f293efd3108c"
+    },
+    {
+      "from_frame": 2222,
+      "to_frame": 3603,
+      "label": "Zip up the zipper",
+      "type": "segment",
+      "id": "mark_a6af5ec3-7b50-4d90-a92b-123e9e57c972"
+    }
+  ]
+}

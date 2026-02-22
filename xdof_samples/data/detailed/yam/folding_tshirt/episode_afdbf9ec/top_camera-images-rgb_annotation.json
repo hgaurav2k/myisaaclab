@@ -1,0 +1,131 @@
+{
+  "version": "1.0",
+  "annotations": [
+    {
+      "from_frame": 0,
+      "to_frame": 357,
+      "label": "grab the tshirt with the right arm",
+      "type": "segment",
+      "id": "mark_23d151eb-0dc6-4ba8-a80e-63899fb41b83"
+    },
+    {
+      "from_frame": 4464,
+      "to_frame": 4575,
+      "label": "move the tshirt back to the center of the table",
+      "type": "segment",
+      "id": "mark_78c2e9fe-007a-4b15-9a83-54f3b73a070a"
+    },
+    {
+      "from_frame": 2777,
+      "to_frame": 3072,
+      "label": "move the tshirt back to the center of the table",
+      "type": "segment",
+      "id": "mark_6670e0f0-8d86-4375-a0d5-4d6753bda688"
+    },
+    {
+      "from_frame": 357,
+      "to_frame": 774,
+      "label": "locate the corner of the tshirt",
+      "type": "segment",
+      "id": "mark_621d27b4-a389-42ba-afd3-c739f0dd756e"
+    },
+    {
+      "from_frame": 881,
+      "to_frame": 1016,
+      "label": "place the tshirt in the center of the board",
+      "type": "segment",
+      "id": "mark_a030ec20-54d0-4d05-91f0-127056772414"
+    },
+    {
+      "from_frame": 1016,
+      "to_frame": 2434,
+      "label": "Flatten the tshirt out",
+      "type": "segment",
+      "id": "mark_10641b82-3adb-4ec6-afdb-4a7d17ffaea6"
+    },
+    {
+      "from_frame": 3321,
+      "to_frame": 3859,
+      "label": "rotate the tshirt 90 degrees",
+      "type": "segment",
+      "id": "mark_dad91134-e662-47ab-98f5-b1ac617ea7e0"
+    },
+    {
+      "from_frame": 2434,
+      "to_frame": 2535,
+      "label": "grab the side of the flattened tshirt furthest away from the robot with both arms",
+      "type": "segment",
+      "id": "mark_9f6b7cfa-6aed-444f-8b73-b5e78fd340e6"
+    },
+    {
+      "from_frame": 2535,
+      "to_frame": 2777,
+      "label": "fold the flattened tshirt in 1/3 of the way",
+      "type": "segment",
+      "id": "mark_0568a6f5-e232-4e27-b406-9d4c054f2cb1"
+    },
+    {
+      "from_frame": 3859,
+      "to_frame": 3969,
+      "label": "grab the bottom of the folded rectangular tshirt with both arms",
+      "type": "segment",
+      "id": "mark_3dd42350-a91e-493b-9ab8-ba105012af9f"
+    },
+    {
+      "from_frame": 3969,
+      "to_frame": 4085,
+      "label": "fold the folded rectangular tshirt in 1/3 of the way",
+      "type": "segment",
+      "id": "mark_8ca486e6-c480-4e18-91dd-39f238ba9eff"
+    },
+    {
+      "from_frame": 4085,
+      "to_frame": 4173,
+      "label": "smooth out wrinkles on the folded tshirt",
+      "type": "segment",
+      "id": "mark_ba5c5b03-8e3f-4853-a9e0-4f4940868c9e"
+    },
+    {
+      "from_frame": 775,
+      "to_frame": 881,
+      "label": "grab the corners of the tshirt with both arms",
+      "type": "segment",
+      "id": "mark_d35d1715-9c90-41fb-9d60-a1e74c50b582"
+    },
+    {
+      "from_frame": 3072,
+      "to_frame": 3232,
+      "label": "grab the side of the flattened tshirt closest away from the robot with both arms",
+      "type": "segment",
+      "id": "mark_397da792-be78-4b65-93a0-e8eb9a95a873"
+    },
+    {
+      "from_frame": 3232,
+      "to_frame": 3321,
+      "label": "fold the other side of the tshirt into a rectangle",
+      "type": "segment",
+      "id": "mark_10222660-a773-48b5-b55b-e8318239cd96"
+    },
+    {
+      "from_frame": 4176,
+      "to_frame": 4232,
+      "label": "grab one side of the 2/3 rectangular tshirt with both arms",
+      "type": "segment",
+      "id": "mark_17063324-5942-4bba-96bc-c305bab60769"
+    },
+    {
+      "from_frame": 4235,
+      "to_frame": 4396,
+      "label": "fold the long partially folded tshirt into a neat square",
+      "type": "segment",
+      "id": "mark_dde16b96-6b0b-4279-8c30-b4309a5a8447"
+    },
+    {
+      "from_frame": 4396,
+      "to_frame": 4464,
+      "label": "smooth out wrinkles on the folded tshirt",
+      "type": "segment",
+      "id": "mark_2b4be409-03d4-4aea-801b-8b472b0e9a80"
+    }
+  ]
+}

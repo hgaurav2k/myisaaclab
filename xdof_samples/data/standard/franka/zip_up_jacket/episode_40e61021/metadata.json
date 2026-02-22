@@ -1,0 +1,53 @@
+{
+  "task_name": "Zip up a jacket",
+  "env_loop_frequency": 30,
+  "duration": 123.38651490211487,
+  "station_metadata": {
+    "world_frame": "left_arm",
+    "extrinsics": {
+      "right_arm_extrinsic": {
+        "position": [
+          0.0,
+          -0.787,
+          0.0
+        ],
+        "rotation": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "arm_type": "franka"
+  },
+  "camera_info": {
+    "top_camera": {
+      "camera_type": "zed",
+      "device_id": "40880670",
+      "resolution": "SVGA",
+      "fps": 60,
+      "concat_image": true
+    },
+    "left_camera": {
+      "camera_type": "realsense",
+      "device_id": "218622271397",
+      "width": 640,
+      "height": 480,
+      "fps": 30,
+      "auto_exposure": true,
+      "brightness": 10,
+      "exposure_value": null
+    },
+    "right_camera": {
+      "camera_type": "realsense",
+      "device_id": "218622275957",
+      "width": 640,
+      "height": 480,
+      "fps": 30,
+      "auto_exposure": true,
+      "brightness": 10,
+      "exposure_value": null
+    }
+  }
+}

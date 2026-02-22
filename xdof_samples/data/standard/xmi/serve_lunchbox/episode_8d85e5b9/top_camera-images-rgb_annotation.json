@@ -1,0 +1,236 @@
+{
+  "version": "1.0",
+  "annotations": [
+    {
+      "from_frame": 250,
+      "to_frame": 383,
+      "label": "Move the lunch box",
+      "type": "segment",
+      "id": "mark_cbbccea5-f7a0-4494-8f1b-8e1ccb98acea"
+    },
+    {
+      "from_frame": 383,
+      "to_frame": 548,
+      "label": "Pick up the food using the spatula",
+      "type": "segment",
+      "id": "mark_efffbddb-3ebe-40cb-8f83-711c4c804c96"
+    },
+    {
+      "from_frame": 548,
+      "to_frame": 617,
+      "label": "Place the food into the lunch box",
+      "type": "segment",
+      "id": "mark_a7f4f0f0-edb6-46f9-b697-014b4a5c92b1"
+    },
+    {
+      "from_frame": 617,
+      "to_frame": 824,
+      "label": "Pick up the food using the spatula",
+      "type": "segment",
+      "id": "mark_0ee9d13e-1cfc-4f35-8f9a-ea959ecd7ab1"
+    },
+    {
+      "from_frame": 824,
+      "to_frame": 939,
+      "label": "Place the food into the lunch box",
+      "type": "segment",
+      "id": "mark_715e7ed6-f782-4a4e-a565-432297f37916"
+    },
+    {
+      "from_frame": 939,
+      "to_frame": 1082,
+      "label": "Pick up the food using the spatula",
+      "type": "segment",
+      "id": "mark_0398a741-2374-49c8-83c0-3609b96007be"
+    },
+    {
+      "from_frame": 1082,
+      "to_frame": 1146,
+      "label": "Place the food into the lunch box",
+      "type": "segment",
+      "id": "mark_b781b383-a17b-4b72-b879-355e34241896"
+    },
+    {
+      "from_frame": 1316,
+      "to_frame": 1380,
+      "label": "Place the food into the lunch box",
+      "type": "segment",
+      "id": "mark_bc586dd4-03ed-4b78-9cf6-bf4776228b5c"
+    },
+    {
+      "from_frame": 1380,
+      "to_frame": 1615,
+      "label": "Pick up the food using the spatula",
+      "type": "segment",
+      "id": "mark_66190921-94cd-4a8e-82a3-0598fde05ae8"
+    },
+    {
+      "from_frame": 1615,
+      "to_frame": 1698,
+      "label": "Place the food into the lunch box",
+      "type": "segment",
+      "id": "mark_0f196033-a0bf-4bde-8211-36dfafa80e9a"
+    },
+    {
+      "from_frame": 1698,
+      "to_frame": 1776,
+      "label": "Move the lunch box",
+      "type": "segment",
+      "id": "mark_b7e1d6b0-b1b3-49d4-bc07-f05dea008e2a"
+    },
+    {
+      "from_frame": 1776,
+      "to_frame": 1835,
+      "label": "Pick up the food using the spatula",
+      "type": "segment",
+      "id": "mark_eb24c42e-ba19-42f2-8209-8a77de1a5da6"
+    },
+    {
+      "from_frame": 1835,
+      "to_frame": 1863,
+      "label": "Place the food into the lunch box",
+      "type": "segment",
+      "id": "mark_7a69ad58-3cae-47d7-bd5d-e8ca0090a417"
+    },
+    {
+      "from_frame": 1863,
+      "to_frame": 1987,
+      "label": "Pick up the food using the spatula",
+      "type": "segment",
+      "id": "mark_7c36cd30-601c-41df-8b8a-c2a8725abf77"
+    },
+    {
+      "from_frame": 1987,
+      "to_frame": 2061,
+      "label": "Place the food into the lunch box",
+      "type": "segment",
+      "id": "mark_768c9936-84c2-4406-ab1b-035ed2757584"
+    },
+    {
+      "from_frame": 2061,
+      "to_frame": 2203,
+      "label": "Pick up the food using the spatula",
+      "type": "segment",
+      "id": "mark_d83fd887-7081-479f-b3da-83c230f67f17"
+    },
+    {
+      "from_frame": 2203,
+      "to_frame": 2277,
+      "label": "Place the food into the lunch box",
+      "type": "segment",
+      "id": "mark_c656770c-54be-4f35-a4c8-39ef72e4778d"
+    },
+    {
+      "from_frame": 2277,
+      "to_frame": 2442,
+      "label": "Put down the spatula",
+      "type": "segment",
+      "id": "mark_7f0b45f2-94c2-4934-9f2d-682ba1b382fc"
+    },
+    {
+      "from_frame": 2442,
+      "to_frame": 2552,
+      "label": "Move the lunch box",
+      "type": "segment",
+      "id": "mark_3e9af79d-50ec-49eb-8d48-9bb953f84a92"
+    },
+    {
+      "from_frame": 2552,
+      "to_frame": 2603,
+      "label": "Pick up the lid of the lunch box with the right arm",
+      "type": "segment",
+      "id": "mark_82c1d0cb-d5a2-439a-a65c-1f4e8f4ce1d6"
+    },
+    {
+      "from_frame": 2603,
+      "to_frame": 3007,
+      "label": "Put the lid back on the lunch box",
+      "type": "segment",
+      "id": "mark_0a1862f0-2d66-4cdb-96bc-886c20e3ff7b"
+    },
+    {
+      "from_frame": 3007,
+      "to_frame": 3099,
+      "label": "Pick up the lid of the lunch box with the right arm",
+      "type": "segment",
+      "id": "mark_fb1cd7c1-48c0-4029-a6fe-ddb94a7209c2"
+    },
+    {
+      "from_frame": 3099,
+      "to_frame": 3219,
+      "label": "Put the lid back on the lunch box",
+      "type": "segment",
+      "id": "mark_184ab7f8-871e-4154-8e48-a796e0dd77fc"
+    },
+    {
+      "from_frame": 3219,
+      "to_frame": 3265,
+      "label": "Move the lunch box",
+      "type": "segment",
+      "id": "mark_cf08fe4d-038a-4476-9a25-574e5caee422"
+    },
+    {
+      "from_frame": 3265,
+      "to_frame": 3380,
+      "label": "Pick up the lid of the lunch box with the right arm",
+      "type": "segment",
+      "id": "mark_78c0e7b0-dba1-4c1e-a86e-1b7fae605971"
+    },
+    {
+      "from_frame": 3380,
+      "to_frame": 3610,
+      "label": "Put the lid back on the lunch box",
+      "type": "segment",
+      "id": "mark_43c96d08-b3ef-4c37-aa59-6c3743d5dcc6"
+    },
+    {
+      "from_frame": 3610,
+      "to_frame": 3678,
+      "label": "Grab a lunch box with the right arm",
+      "type": "segment",
+      "id": "mark_6b0be665-bf0f-43af-9d57-fc05bd4080c1"
+    },
+    {
+      "from_frame": 3678,
+      "to_frame": 3876,
+      "label": "Place the lunch box onto another one",
+      "type": "segment",
+      "id": "mark_93e053b5-c2ee-45b5-bac0-25a77a23f133"
+    },
+    {
+      "from_frame": 3876,
+      "to_frame": 3957,
+      "label": "Move the lunch box",
+      "type": "segment",
+      "id": "mark_14ec96df-8fc7-42a4-8aad-195859e45ef1"
+    },
+    {
+      "from_frame": 1146,
+      "to_frame": 1231,
+      "label": "Move the lunch box",
+      "type": "segment",
+      "id": "mark_385c4309-0ce4-459c-aecc-9024bc566c73"
+    },
+    {
+      "from_frame": 1231,
+      "to_frame": 1316,
+      "label": "Pick up the food using the spatula",
+      "type": "segment",
+      "id": "mark_9608de67-8ce7-489b-ac3a-5261edcaaf30"
+    },
+    {
+      "from_frame": 0,
+      "to_frame": 46,
+      "label": "trim",
+      "type": "segment",
+      "id": "mark_90b02208-29e7-4e55-9bf9-9bdedbf9afae"
+    },
+    {
+      "from_frame": 46,
+      "to_frame": 250,
+      "label": "Grab the spatula with the left arm",
+      "type": "segment",
+      "id": "mark_d37232bc-30b8-405b-bd7d-ca6d2c0d319b"
+    }
+  ]
+}

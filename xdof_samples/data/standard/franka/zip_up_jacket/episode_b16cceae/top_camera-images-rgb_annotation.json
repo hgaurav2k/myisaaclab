@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "annotations": [
+    {
+      "from_frame": 0,
+      "to_frame": 910,
+      "label": "Locate the head and base of the zipper",
+      "type": "segment",
+      "id": "mark_783abb92-134f-41ec-b6b2-1ff58a4a7a73"
+    },
+    {
+      "from_frame": 910,
+      "to_frame": 1210,
+      "label": "Insert the slot of the zipper head into the base pin",
+      "type": "segment",
+      "id": "mark_ef5992c4-35b0-4510-9bde-956502d54186"
+    },
+    {
+      "from_frame": 1210,
+      "to_frame": 2355,
+      "label": "Zip up the zipper",
+      "type": "segment",
+      "id": "mark_57184cc0-12db-48fd-aafb-a8a094d7a4d3"
+    }
+  ]
+}
